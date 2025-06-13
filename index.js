@@ -1,17 +1,8 @@
 import { useState } from "react";
 
 const tiers = [
-  "10-C",
-  "9-B",
-  "8-A",
-  "7-S",
-  "6-SS",
-  "5-SSS",
-  "4-God",
-  "3-Celestial",
-  "2-Cosmic",
-  "1-Universe",
-  "0-Multiverse"
+  "10-C", "9-B", "8-A", "7-S", "6-SS", "5-SSS", 
+  "4-God", "3-Celestial", "2-Cosmic", "1-Universe", "0-Multiverse"
 ];
 
 const characters = [
