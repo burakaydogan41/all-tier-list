@@ -24,7 +24,7 @@ const tiers = [
 ];
 
 
-const characters = 
+const characters = [
   { id: 1, name: "Rimuru Tempest", universe: "Slime Datta Ken", tier: "T5 - Multiversal" },
   { id: 2, name: "Diablo", universe: "Slime Datta Ken", tier: "T6 - Universal+" },
   { id: 3, name: "Shion", universe: "Slime Datta Ken", tier: "T8 - Large Planetary to Galaxy Level" },
