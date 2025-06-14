@@ -1,18 +1,28 @@
 import { useState } from "react";
 
 const tiers = [
-  "10-C",
-  "9-B",
-  "8-A",
-  "7-S",
-  "6-SS",
-  "5-SSS",
-  "4-God",
-  "3-Celestial",
-  "2-Cosmic",
-  "1-Universe",
-  "0-Multiverse"
+  "T1 - Omniversal",
+  "T2 - Beyond Multiversal",
+  "T3 - High Multiversal",
+  "T4 - Multiversal+",
+  "T5 - Multiversal",
+  "T6 - Universal+",
+  "T7 - Universal",
+  "T8 - Large Planetary to Galaxy Level",
+  "T9 - Star System Level",
+  "T10 - Planetary",
+  "T11 - Moon Level",
+  "T12 - Continent Level",
+  "T13 - Country Level",
+  "T14 - City Level",
+  "T15 - Mountain Level",
+  "T16 - Building Level",
+  "T17 - Wall Level",
+  "T18 - Street Level",
+  "T19 - Peak Human",
+  "T20 - Regular Human"
 ];
+
 
 const characters = [
   { id: 1, name: "Goku", universe: "Dragon Ball", tier: "0-Multiverse" },
