@@ -35,6 +35,20 @@ const characters =
   { id: 8, name: "Ranga", universe: "Slime Datta Ken", tier: "T12 - Continent Level" },
   { id: 9, name: "Veldora Tempest", universe: "Slime Datta Ken", tier: "T4 - Multiversal+" },
   { id: 10, name: "Milim Nava", universe: "Slime Datta Ken", tier: "T3 - High Multiversal" },
+  { id: 11, name: "Frey", universe: "Slime Datta Ken", tier: "T13 - Country Level" },
+  { id: 12, name: "Gabil", universe: "Slime Datta Ken", tier: "T17 - Wall Level" },
+  { id: 13, name: "Iroha", universe: "Slime Datta Ken", tier: "T15 - Mountain Level" },
+  { id: 14, name: "Rigurdo", universe: "Slime Datta Ken", tier: "T18 - Street Level" },
+  { id: 15, name: "Gobta", universe: "Slime Datta Ken", tier: "T20 - Regular Human" },
+  { id: 16, name: "Ramiris", universe: "Slime Datta Ken", tier: "T7 - Universal" },
+  { id: 17, name: "Geld", universe: "Slime Datta Ken", tier: "T6 - Universal+" },
+  { id: 18, name: "Carrion", universe: "Slime Datta Ken", tier: "T11 - Moon Level" },
+  { id: 19, name: "Clayman", universe: "Slime Datta Ken", tier: "T5 - Multiversal" },
+  { id: 20, name: "Treyni", universe: "Slime Datta Ken", tier: "T14 - City Level" },
+  { id: 21, name: "Hinata Sakaguchi", universe: "Slime Datta Ken", tier: "T9 - Star System Level" },
+  { id: 22, name: "Kurobe", universe: "Slime Datta Ken", tier: "T16 - Building Level" },
+  { id: 23, name: "Luminous Valentine", universe: "Slime Datta Ken", tier: "T13 - Country Level" },
+  { id: 24, name: "Towa", universe: "Slime Datta Ken", tier: "T6 - Universal+" },
 ];
 
 export default function Home() {
