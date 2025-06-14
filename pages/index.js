@@ -24,12 +24,17 @@ const tiers = [
 ];
 
 
-const characters = [
-  { id: 1, name: "Goku", universe: "Dragon Ball", tier: "0-Multiverse" },
-  { id: 2, name: "Saitama", universe: "One Punch Man", tier: "1-Universe" },
-  { id: 3, name: "Spider-Man", universe: "Marvel", tier: "5-SSS" },
-  { id: 4, name: "Zeno", universe: "Dragon Ball", tier: "0-Multiverse" },
-  { id: 5, name: "Naruto", universe: "Naruto", tier: "6-SS" }
+const characters = 
+  { id: 1, name: "Rimuru Tempest", universe: "Slime Datta Ken", tier: "T5 - Multiversal" },
+  { id: 2, name: "Diablo", universe: "Slime Datta Ken", tier: "T6 - Universal+" },
+  { id: 3, name: "Shion", universe: "Slime Datta Ken", tier: "T8 - Large Planetary to Galaxy Level" },
+  { id: 4, name: "Benimaru", universe: "Slime Datta Ken", tier: "T9 - Star System Level" },
+  { id: 5, name: "Shuna", universe: "Slime Datta Ken", tier: "T14 - City Level" },
+  { id: 6, name: "Souei", universe: "Slime Datta Ken", tier: "T8 - Large Planetary to Galaxy Level" },
+  { id: 7, name: "Hakurou", universe: "Slime Datta Ken", tier: "T15 - Mountain Level" },
+  { id: 8, name: "Ranga", universe: "Slime Datta Ken", tier: "T12 - Continent Level" },
+  { id: 9, name: "Veldora Tempest", universe: "Slime Datta Ken", tier: "T4 - Multiversal+" },
+  { id: 10, name: "Milim Nava", universe: "Slime Datta Ken", tier: "T3 - High Multiversal" },
 ];
 
 export default function Home() {
